@@ -1,0 +1,30 @@
+body{
+    /* background-size: cover; */
+    /* --background-image: url("images/signin2.jpg"); */
+    background-color: #f9fdff;
+    /* background-position: center; */
+}
+.container{
+    /* margin-top: 5%; */
+    margin-bottom: 10%;
+}
+.login-container
+{
+    margin: 0 auto;
+    /* margin-top: 5%; */
+    margin-bottom: 10%;
+    padding: 2%;
+    width: 70%;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+.login-container h2{
+    color: black;   
+}
+.form-group label{
+    text-decoration-color: whitesmoke;
+}
+.form-control
+{
+    background-color: transparent !important;
+}
